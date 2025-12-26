@@ -1,1 +1,21 @@
+# 🤖 AI Chatbot using Streamlit & LangChain
 
+A simple yet powerful AI chatbot built with **Streamlit**, **LangChain**, and **Google Gemini API**, capable of responding to user queries in English while maintaining conversation history.
+
+---
+
+## 📌 Features
+- AI responses powered by **Google Gemini**
+- **Conversation history** stored within session
+- **Real-time streaming** chatbot replies
+- **Interactive web interface** using Streamlit
+- Secure **API key input field**
+
+---
+
+## 🛠️ Installation
+
+Clone this repository and install dependencies:
+
+```bash
+pip install streamlit langchain-core langchain-community langchain-google-genai
